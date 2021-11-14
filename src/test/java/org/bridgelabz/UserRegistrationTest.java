@@ -8,14 +8,14 @@ import org.junit.Test;
 public class UserRegistrationTest {
     UserRegistrationMain userRegistration=new UserRegistrationMain();
     @Test
-    public void givenPassword_WhenProper_ShouldReturnTrue() {
-        boolean result = userRegistration.password(reNuka@123);
+    public void givenPasswordRule3_WhenProper_ShouldReturnTrue() {
+        boolean result = userRegistration.password(reuuka@123);
         Assert.assertEquals(true, result);
     }
 
     @Test
-    public void givenPassword_WhenNotProper_ShouldReturnFlase() {
-        boolean result = userRegistration.password(ren@13);
+    public void givenPasswordRule3_WhenNotProper_ShouldReturnFlase() {
+        boolean result = userRegistration.password(ren@ta);
         Assert.assertEquals(false, result);
     }
 }
