@@ -11,14 +11,14 @@ import org.junit.Test;
 public class UserRegistrationTest {
     UserRegistrationMain userRegistration=new UserRegistrationMain();
     @Test
-    public void givenLastName_WhenProper_ShouldReturnTrue() {
-        boolean result = userRegistration.lastName("Renuka");
+    public void givenEmail_WhenProper_ShouldReturnTrue() {
+        boolean result = userRegistration.email("renuka123@gmail.com");
         Assert.assertEquals(true, result);
     }
 
     @Test
-    public void givenLastName_WhenNotProper_ShouldReturnFlase() {
-        boolean result = userRegistration.lastName("renuka");
+    public void givenEmail_WhenNotProper_ShouldReturnFlase() {
+        boolean result = userRegistration.email("renuka&tammisetti@gmail.com");
         Assert.assertEquals(false, result);
     }
 }

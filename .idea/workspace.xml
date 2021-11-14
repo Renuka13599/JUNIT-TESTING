@@ -20,9 +20,7 @@
       <change beforePath="$PROJECT_DIR$/../LineComparision1/out/production/LineComparision1/com/bridgelabz/LineComparision1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../LineComparision1/src/com/bridgelabz/LineComparision1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Polymorphism.java/Polymorphism.java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/bridgelabz/App.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/bridgelabz/UserRegistrationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/bridgelabz/UserRegistrationMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/bridgelabz/AppTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/bridgelabz/UserRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/bridgelabz/UserRegistrationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +51,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.UserRegistrationTest.givenLastName_WhenProper_ShouldReturnTrue">
+  <component name="RunManager" selected="JUnit.UserRegistrationTest.givenEmail_WhenProper_ShouldReturnTrue">
     <configuration name="UserRegistrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UserRegistertation" />
       <extension name="coverage">
@@ -65,6 +63,22 @@
       <option name="PACKAGE_NAME" value="org.bridgelabz" />
       <option name="MAIN_CLASS_NAME" value="org.bridgelabz.UserRegistrationTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistrationTest.givenEmail_WhenProper_ShouldReturnTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UserRegistertation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.bridgelabz" />
+      <option name="MAIN_CLASS_NAME" value="org.bridgelabz.UserRegistrationTest" />
+      <option name="METHOD_NAME" value="givenEmail_WhenProper_ShouldReturnTrue" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,29 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserRegistrationTest.givenfirstName_WhenProper_ShouldReturnTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UserRegistertation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.bridgelabz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.bridgelabz" />
-      <option name="MAIN_CLASS_NAME" value="org.bridgelabz.UserRegistrationTest" />
-      <option name="METHOD_NAME" value="givenfirstName_WhenProper_ShouldReturnTrue" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserRegistrationTest.givenEmail_WhenProper_ShouldReturnTrue" />
         <item itemvalue="JUnit.UserRegistrationTest.givenLastName_WhenProper_ShouldReturnTrue" />
         <item itemvalue="JUnit.UserRegistrationTest" />
         <item itemvalue="JUnit.UserRegistrationTest.givenFirstName_WhenNotProper_ShouldReturnFlase" />
         <item itemvalue="JUnit.UserRegistrationTest.givenFirstName_WhenProper_ShouldReturnTrue" />
-        <item itemvalue="JUnit.UserRegistrationTest.givenfirstName_WhenProper_ShouldReturnTrue" />
       </list>
     </recent_temporary>
   </component>
