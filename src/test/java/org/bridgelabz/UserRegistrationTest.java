@@ -1,8 +1,5 @@
 package org.bridgelabz;
-/*Author:Renu
-Date:14/11/21
-pupose:Program to test firstName
- */
+
 
 import org.junit.Assert;
 import org.junit.Test;
@@ -11,14 +8,14 @@ import org.junit.Test;
 public class UserRegistrationTest {
     UserRegistrationMain userRegistration=new UserRegistrationMain();
     @Test
-    public void givenEmail_WhenProper_ShouldReturnTrue() {
-        boolean result = userRegistration.email("renuka123@gmail.com");
+    public void givenMobileNo_WhenProper_ShouldReturnTrue() {
+        boolean result = userRegistration.mobileNo(91 9789587787);
         Assert.assertEquals(true, result);
     }
 
     @Test
-    public void givenEmail_WhenNotProper_ShouldReturnFlase() {
-        boolean result = userRegistration.email("renuka&tammisetti@gmail.com");
+    public void givenMobileNo_WhenNotProper_ShouldReturnFlase() {
+        boolean result = userRegistration.mobileNo(919876546878);
         Assert.assertEquals(false, result);
     }
 }
