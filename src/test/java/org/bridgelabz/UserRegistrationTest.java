@@ -9,7 +9,7 @@ public class UserRegistrationTest {
     UserRegistrationMain userRegistration=new UserRegistrationMain();
     @Test
     public void givenPassword_WhenProper_ShouldReturnTrue() {
-        boolean result = userRegistration.password(renuka@123);
+        boolean result = userRegistration.password(reNuka@123);
         Assert.assertEquals(true, result);
     }
 
