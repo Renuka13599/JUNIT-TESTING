@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a724d7fb-da98-4a5b-841d-963e98d8f524" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AddressBookComputation/src/com/bridgelabz/AddressBookMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookComputation/src/com/bridgelabz/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookComputation1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmpWageOops/src/com/bridgelabz/EmpWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LineComparisionComputation/src/com/bridgelabz/LineComparision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LineComparision1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LineComparision1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LineComparision1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LineComparision1/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LineComparision1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LineComparision1/LineComparision1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LineComparision1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LineComparision1/out/production/LineComparision1/com/bridgelabz/LineComparision1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LineComparision1/src/com/bridgelabz/LineComparision1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism.java/Polymorphism.java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bridgelabz/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bridgelabz/UserRegistrationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/bridgelabz/UserRegistrationMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/bridgelabz/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/bridgelabz/UserRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/bridgelabz/UserRegistrationTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20uXwPFbI0jHPKUWWLipD2RBsXH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.UserRegistrationTest.givenLastName_WhenProper_ShouldReturnTrue">
+    <configuration name="UserRegistrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UserRegistertation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.bridgelabz" />
+      <option name="MAIN_CLASS_NAME" value="org.bridgelabz.UserRegistrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistrationTest.givenFirstName_WhenNotProper_ShouldReturnFlase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UserRegistertation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.bridgelabz" />
+      <option name="MAIN_CLASS_NAME" value="org.bridgelabz.UserRegistrationTest" />
+      <option name="METHOD_NAME" value="givenFirstName_WhenNotProper_ShouldReturnFlase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistrationTest.givenFirstName_WhenProper_ShouldReturnTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UserRegistertation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.bridgelabz" />
+      <option name="MAIN_CLASS_NAME" value="org.bridgelabz.UserRegistrationTest" />
+      <option name="METHOD_NAME" value="givenFirstName_WhenProper_ShouldReturnTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistrationTest.givenLastName_WhenProper_ShouldReturnTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UserRegistertation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.bridgelabz" />
+      <option name="MAIN_CLASS_NAME" value="org.bridgelabz.UserRegistrationTest" />
+      <option name="METHOD_NAME" value="givenLastName_WhenProper_ShouldReturnTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistrationTest.givenfirstName_WhenProper_ShouldReturnTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UserRegistertation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.bridgelabz" />
+      <option name="MAIN_CLASS_NAME" value="org.bridgelabz.UserRegistrationTest" />
+      <option name="METHOD_NAME" value="givenfirstName_WhenProper_ShouldReturnTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserRegistrationTest.givenLastName_WhenProper_ShouldReturnTrue" />
+        <item itemvalue="JUnit.UserRegistrationTest" />
+        <item itemvalue="JUnit.UserRegistrationTest.givenFirstName_WhenNotProper_ShouldReturnFlase" />
+        <item itemvalue="JUnit.UserRegistrationTest.givenFirstName_WhenProper_ShouldReturnTrue" />
+        <item itemvalue="JUnit.UserRegistrationTest.givenfirstName_WhenProper_ShouldReturnTrue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a724d7fb-da98-4a5b-841d-963e98d8f524" name="Changes" comment="" />
+      <created>1636895683908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636895683908</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
