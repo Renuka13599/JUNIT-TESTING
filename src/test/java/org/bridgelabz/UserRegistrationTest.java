@@ -1,8 +1,4 @@
 package org.bridgelabz;
-/*Author:Renu
-Date:14/11/21
-pupose:Program to test firstName
- */
 
 import org.junit.Assert;
 import org.junit.Test;
