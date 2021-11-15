@@ -14,7 +14,7 @@ public class UserRegistrationTest {
     }
 
     @Test
-    public void givenEmail2_WhenNotProper_ShouldReturnEntryFailed() {
+    public void givenMessage_WhenNotProper_ShouldReturnEntryFailed() {
         String result =  UserRegistrationMain.analyseMood("I am in Sad mood");
         Assert.assertEquals("Entry Failed", result);
     }
